@@ -1,2 +1,2 @@
 # Election_Analysis
-Local election analysis using python
+Analysis of a local election result using python progamming language
