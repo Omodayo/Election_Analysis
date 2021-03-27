@@ -23,3 +23,8 @@ This project is initiated upon the request of a Colorado Board of election emplo
 - The winner of the election is;
   * Diana DeGette, who received 73.8% of votes and 272,892 votes
 - ![Election_Analysis_Results](https://github.com/Omodayo/Election_Analysis/blob/main/analysis/election_analysis.txt)
+
+## Election Audit Summarry
+This is a very interesting but challenging analysis. Once the code is cleane and debug to remove any cluster, this will present an automated opportunity in the future for the the electoral officials in Colorado to collate and tally their election result quickly and with less room for error. Though this code is written for a specic election, it is mutable and can be modified to be used for any election regardless of the size, number of counties, and canditates by;
+  * County list and dictonary can be modified to accomodate more locations depending on the size of the election
+  * Candidates list & dictionary can also be modified to accomodate more number of candidates
