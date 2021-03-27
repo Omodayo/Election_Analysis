@@ -12,6 +12,13 @@ This project is initiated upon the request of a Colorado Board of election emplo
 ## Election Audit Result
 - There are 369,711 votes cast in the congressional election
 - For each of thr 3 counties in the precint, the number of votes cas, and percentage of total vote cast are;
-  * Jefferson: 38,855 votes cast - (10.5% of total vote)
-  * Denver: 306,055 votes cast - (82.8% of total vote)
-  * Arapahoe: 24,801 votes cast - (6.7% of total vote)
+  * In Jefferson county, 10.5% of total votes is cast votes cast, and 38,855 votes
+  * In Denver county, 82.8% of total votes is cast votes cast, and 306,055 votes
+  * In Arapahoe county, 6.7% of total votes is cast votes cast, and 24,801 votes
+- Denver is the county with the lagest number of votes
+- The candidates results are;
+  * Charles casper Stockham received 23.0% of the total votes and 85,213 votes
+  * Diana DeGette received 73.8% of the total votes and 272,892 votes
+  * Raymon Anthony Doane received 3.1% of the total votes and 11,606 votes
+- The winner of the election is;
+  * Diana DeGette, who received 73.8% of votes and 272,892 votes
